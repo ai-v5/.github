@@ -13,7 +13,7 @@
 
 <br>
 
-<a href="https://ai-v5.github.io/"><img src="https://img.shields.io/badge/website-ai--v5.github.io-3176de?style=flat-square&logo=githubpages&logoColor=white" alt="website"></a> <a href="https://awesome-dsh-plugin.com"><img src="https://img.shields.io/badge/dsh%20plugins-awesome--dsh--plugin-213e68?style=flat-square" alt="dsh plugins"></a> <a href="https://github.com/ai-v5/keyless-web-mcp"><img src="https://img.shields.io/badge/MCP-ready-477dbb?style=flat-square" alt="MCP"></a> <a href="https://github.com/orgs/ai-v5/repositories"><img src="https://img.shields.io/badge/repos-14-8795a6?style=flat-square" alt="repos"></a>
+<a href="https://ai-v5.github.io/"><img src="https://img.shields.io/badge/website-ai--v5.github.io-3176de?style=flat-square&logo=githubpages&logoColor=white" alt="website"></a> <a href="https://awesome-dsh-plugin.com"><img src="https://img.shields.io/badge/dsh%20plugins-awesome--dsh--plugin-213e68?style=flat-square" alt="dsh plugins"></a> <a href="https://github.com/ai-v5/keyless-web-mcp"><img src="https://img.shields.io/badge/MCP-ready-477dbb?style=flat-square" alt="MCP"></a>
 
 </div>
 
