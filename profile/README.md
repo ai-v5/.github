@@ -1,8 +1,8 @@
 <div align="center">
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="assets/banner-dark.svg">
-  <img src="assets/banner-light.svg" alt="AI V5 — 大模型工程 · 性能剖析 · 部署 · Agent 工具链">
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/ai-v5/.github/main/profile/assets/banner-dark.svg">
+  <img src="https://raw.githubusercontent.com/ai-v5/.github/main/profile/assets/banner-light.svg" alt="AI V5 — 大模型工程 · 性能剖析 · 部署 · Agent 工具链">
 </picture>
 
 <br>
